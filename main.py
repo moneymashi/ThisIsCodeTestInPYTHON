@@ -1,4 +1,4 @@
 # from collections import deque
-import 9FreqAskCodeTests as fac
+import FreqAskCodeTests as fac
 
 fac.sayHello("?")
